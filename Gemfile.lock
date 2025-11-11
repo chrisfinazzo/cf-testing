@@ -116,6 +116,7 @@ DEPENDENCIES
   jekyll-feed
   jekyll-remote-theme
   jekyll-seo-tag
+  json (~> 2.6)
 
 BUNDLED WITH
    2.5.14
